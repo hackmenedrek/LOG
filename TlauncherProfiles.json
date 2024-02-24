@@ -1,0 +1,27 @@
+{
+  "clientToken": "1b865905-9478-47a3-aa0e-b7f46a1bfb59",
+  "accounts": {
+    "cef1dd27245111ec998bd45d64bce613": {
+      "username": "munteanmihail102@gmail.com",
+      "userID": "munteanmihail102@gmail.com",
+      "displayName": "MihMV",
+      "accessToken": "3d1fe122-2077-4aa6-b568-b70925bbcf10",
+      "uuid": "cef1dd27-2451-11ec-998b-d45d64bce613",
+      "type": "tlauncher",
+      "skinType": "tlauncher",
+      "premiumAccount": false,
+      "profiles": [
+        {
+          "id": "cef1dd27-2451-11ec-998b-d45d64bce613",
+          "name": "MihMV"
+        }
+      ],
+      "selectedProfile": {
+        "id": "cef1dd27-2451-11ec-998b-d45d64bce613",
+        "name": "MihMV"
+      }
+    }
+  },
+  "selectedAccountUUID": "cef1dd27245111ec998bd45d64bce613",
+  "freeAccountUUID": "1314d2f6037a4454bda03944b49312e6"
+}
